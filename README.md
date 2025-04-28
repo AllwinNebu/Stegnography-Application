@@ -118,3 +118,5 @@ Extracting Data:
   - `crypto_kernel`: Basic XOR for accelerated encryption (optional fallback).
 
 ---
+
+Further information about the software is available at the document folder 
