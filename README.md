@@ -119,10 +119,10 @@ Extracting Data:
 
 ---
 created by 
-      -- Allwin Nebu
-      -- Alvin Boby Mathew
-      -- Ajay Dileep
-      -- Mathew Somy
+      Allwin Nebu
+      Alvin Boby Mathew
+      Ajay Dileep
+      Mathew Somy
       
 ---
 Further information about the software is available at the document folder 
